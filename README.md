@@ -1,7 +1,7 @@
 ## Hi there, My name is Hải Nguyễn
 
 
-[![Hải's GitHub stats](https://github-readme-stats.vercel.app/api?username=hainguyen1511)](https://github.com/anuraghazra/github-readme-stats)
+[![Hải's GitHub stats](https://github-readme-stats.vercel.app/api?username=hainguyen1511)](https://github.com/hainguyen1511/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
