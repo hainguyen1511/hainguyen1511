@@ -2,7 +2,9 @@
 
 [![Hải's GitHub stats](https://github-readme-stats.vercel.app/api?username=hainguyen1511)](https://github.com/hainguyen1511/github-readme-stats)
 
-- 🔭 I’m currently working on ...
+- 🔭 Portfolio
+[Bikeshare](https://public.tableau.com/app/profile/hai.nguyen3536/viz/Bikeshare_17578014971260/Final)
+[Snail](https://public.tableau.com/app/profile/hai.nguyen3536/viz/Snail_17445646836150/Snail)
 - 🌱 I’m currently learning numpy, scikit-learn, pandas, matplotlib
 - I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
