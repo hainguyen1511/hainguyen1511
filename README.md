@@ -3,14 +3,12 @@
 [![Hải's GitHub stats](https://github-readme-stats.vercel.app/api?username=hainguyen1511)](https://github.com/hainguyen1511/github-readme-stats)
 
 - 🔭 Portfolio
-[Bikeshare](https://public.tableau.com/app/profile/hai.nguyen3536/viz/Bikeshare_17578014971260/Final)
-[Snail](https://public.tableau.com/app/profile/hai.nguyen3536/viz/Snail_17445646836150/Snail)
-- 🌱 I’m currently learning numpy, scikit-learn, pandas, matplotlib
-- I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- [Bikeshare](https://public.tableau.com/app/profile/hai.nguyen3536/viz/Bikeshare_17578014971260/Final)
+- [Snail](https://public.tableau.com/app/profile/hai.nguyen3536/viz/Snail_17445646836150/Snail)
+- 🌱 I’m currently learning ML
+- 🤔 I’m looking for help with numpy, scikit-learn, pandas, matplotlib
 - 💬 Ask me about: Building a gaming rig.
 - 📫 How to reach me: haihuy1511@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: "When I’m not ensuring data is flawless, I’m either building computers from scratch (my current rig has rainbow LEDs, obviously) or tweaking video game translations—because nothing ruins immersion like poorly localized dragon dialogue!"
 
 ## 	:computer: Tech Stack
